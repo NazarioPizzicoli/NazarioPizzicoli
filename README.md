@@ -27,10 +27,5 @@ I enjoy the challenge of taking theoretical models (like YOLO and Deep Learning)
 
 ---
 
-### 📊 GitHub Stats
-![Nazario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_USERNAME&show_icons=true&theme=radical&hide_border=true)
-
----
-
 * [💼 LinkedIn](https://linkedin.com/in/nazario-pizzicoli)
 * [📧 Email](mailto:nazariopizzicoli.np@gmail.com)
