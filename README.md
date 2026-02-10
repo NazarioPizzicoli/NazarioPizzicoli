@@ -1,29 +1,15 @@
 # Hi there, I'm Nazario Pizzicoli!
 
-I am a **Robotics Engineering Graduate** focused on the intersection of **Perception and Control**.
-I enjoy the challenge of taking theoretical models (like YOLO and Deep Learning) and making them work reliably on physical robots.
+
+I am a **Robotics Engineering Graduate** passionate about the intersection of **Perception** and **Control**. I enjoy the challenge of taking theoretical model s—like YOLO and Deep Learning— and finding ways to make them work reliably on physical hardware.
 
 ---
 
-### 🛠 Tech Stack
-***Languages:** Python (Advanced), C++, MATLAB/Simulink.
-***AI & Computer Vision:** PyTorch, TensorFlow, YOLO (v8/v11), OpenCV, Scikit-learn.
-***Robotics:** ROS/ROS2, MoveIt!, Gazebo, Dynamics & Kinematics.
-***Tools:** Git, Docker, Linux.
-
----
-
-### 🔭 What I'm Working On
-* 🚁 **Advanced Computer Vision:** Developing a vessel detection system using Monocular Depth Estimation (Master's Thesis).
-* 🧠 **Applied Deep Learning:** Integrating YOLOv11 and Depth AnythingV2 for real-time inference, achieving a 20-30% efficiency boost.
-* 🤖 **Machine Learning Research:** Collaborating with CNR-IFAC to develop automated pipelines for complex time-series datasets.
-
----
-
-### 🚀 Selected Projects
+### Projects
+* **Vessel Detection & Depth Estimation**: Developed a real-time system for detect and estimate the position of vessels using Monocular Depth Estimation (DepthAnythingV2) and Object Detection (YOLOv11) how Monocular Depth Estimation can improve maritime perception. Master's Thesis Project at CoE Marble (Zagreb,Croatia)
 * **Pick & Place with Franka Emika Panda:** Engineered a ROS-based system for 7-DoF manipulation, implementing trajectory planning via MoveIt! and validating with Sim2Real transfer.
 * **Self-Balancing Robot:** Modeled system dynamics and developed a PID/LQR control architecture on Arduino to stabilize a non-linear plant.
-* **FPV Drones:** Building, tuning, and piloting FPV drones.
+
 
 ---
 
