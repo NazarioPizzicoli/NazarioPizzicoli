@@ -1,6 +1,3 @@
-# Hi there, I'm Nazario Pizzicoli!
-
-
 I am a **Robotics Engineering Graduate** passionate about the intersection of **Perception** and **Control**. I enjoy the challenge of taking theoretical model s—like YOLO and Deep Learning— and finding ways to make them work reliably on physical hardware.
 
 ---
