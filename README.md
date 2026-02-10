@@ -1,9 +1,7 @@
-# Hi there, I'm Nazario Pizzicoli! 👋
+# Hi there, I'm Nazario Pizzicoli!
 
 I am a **Robotics Engineering Graduate** focused on the intersection of **Perception and Control**.
 I enjoy the challenge of taking theoretical models (like YOLO and Deep Learning) and making them work reliably on physical robots.
-
-Currently, I am a **Computer Vision Trainee** at the Centre of Excellence MARBLE in Zagreb, designing end-to-end pipelines for object detection and depth estimation.
 
 ---
 
@@ -33,9 +31,6 @@ Currently, I am a **Computer Vision Trainee** at the Centre of Excellence MARBLE
 ![Nazario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_USERNAME&show_icons=true&theme=radical&hide_border=true)
 
 ---
-
-### 📫 Let's Connect
-I am looking for a stimulating environment where I can learn from experienced engineers and solve real technical challenges.
 
 * [💼 LinkedIn](https://linkedin.com/in/nazario-pizzicoli)
 * [📧 Email](mailto:nazariopizzicoli.np@gmail.com)
